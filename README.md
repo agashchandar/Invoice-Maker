@@ -19,3 +19,11 @@ A simple project on creating an invoicing application from scratch using Python 
 
 -Similarly the product/services models can be related to the invoice model. In the product/services models we can describe the specific products and services we are offering that we will be charging for.
 
+## Screenshots
+![Client Journey](https://github.com/agashchandar/Invoice-Maker/images/invoice-1.PNG)
+![Design Journey](https://github.com/agashchandar/Invoice-Maker/images/invoice-2.PNG)
+![Model Class Design](https://github.com/agashchandar/Invoice-Maker/images/invoice-3.PNG)
+![Login](https://github.com/agashchandar/Invoice-Maker/images/invoice-4.PNG)
+![Invoice Dashboard](https://github.com/agashchandar/Invoice-Maker/images/invoice-5.PNG)
+![Invoice PDF](https://github.com/agashchandar/Invoice-Maker/images/invoice-6.PNG)
+
