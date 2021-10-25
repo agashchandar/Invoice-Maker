@@ -20,10 +20,10 @@ A simple project on creating an invoicing application from scratch using Python 
 -Similarly the product/services models can be related to the invoice model. In the product/services models we can describe the specific products and services we are offering that we will be charging for.
 
 ## Screenshots
-![Client Journey](https://github.com/agashchandar/Invoice-Maker/images/invoice-1.PNG)
-![Design Journey](https://github.com/agashchandar/Invoice-Maker/images/invoice-2.PNG)
-![Model Class Design](https://github.com/agashchandar/Invoice-Maker/images/invoice-3.PNG)
-![Login](https://github.com/agashchandar/Invoice-Maker/images/invoice-4.PNG)
-![Invoice Dashboard](https://github.com/agashchandar/Invoice-Maker/images/invoice-5.PNG)
-![Invoice PDF](https://github.com/agashchandar/Invoice-Maker/images/invoice-6.PNG)
+![Client Journey](https://user-images.githubusercontent.com/66857942/138771607-c756a54f-4c93-42af-9450-6b75ecf6adf9.PNG)
+![Design Journey](https://user-images.githubusercontent.com/66857942/138771736-e64dff87-32c6-4398-ae72-9885b83ae8a4.PNG)
+![Model Class Design](https://user-images.githubusercontent.com/66857942/138771943-4040da4e-86c7-41ab-a1c6-8667398f9b1e.PNG)
+![Login](https://user-images.githubusercontent.com/66857942/138771905-2085e809-e161-4aa6-9f3f-57018b275bab.PNG)
+![Invoice Dashboard](https://user-images.githubusercontent.com/66857942/138771982-06a8dc2e-86f3-4f55-8c43-09657f9c6fe4.PNG)
+![Invoice PDF](https://user-images.githubusercontent.com/66857942/138772019-b1e38872-fc53-4c09-ba46-e9cd79b22123.PNG)
 
